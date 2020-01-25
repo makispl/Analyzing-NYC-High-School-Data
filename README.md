@@ -24,4 +24,4 @@ This project reads a number of different datasets (see above), combines them int
 
 * The higher the number of students in a High School that take at least on AP exam, does not necessarily mean that this school will note higher SAT scores.
 
-[*It was created while studying Data Science in DataQuest platform, in an effort to enhance my ability to Communicate results using Visualitzations, Reason about data from varied sources and stay Motivated to continuously implement newly aquired skills & capabilities, so as to enrich my portfolio of data science-oriented projects*] 
+[*It was created while studying Data Science in DataQuest platform, in an effort to enhance my ability to Communicate results using Visualizations, Reason about data from varied sources and stay Motivated to continuously implement the newly aquired skills & capabilities, so as to enrich my portfolio of data science-oriented projects*] 
